@@ -1,4 +1,10 @@
 # ghcourse1
-Example *repo* for course
+
+
+Example __repo__ for course
+
+
 Add more lines
+
+
 bla bla bla 
