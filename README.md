@@ -1,2 +1,4 @@
 # ghcourse1
-Example repo for course
+Example *repo* for course
+Add more lines
+bla bla bla 
